@@ -1,0 +1,1 @@
+web: gunicorn djoser_auth.wsgi --log-file -
